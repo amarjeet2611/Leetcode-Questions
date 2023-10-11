@@ -24,8 +24,7 @@ public:
         
     }
 };
-[23:43, 27/09/2023] Amarjeet Kaur: Sieve of Eratosthenes
-[00:09, 28/09/2023] Dipender 1: class Solution {
+ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         int target=0;
