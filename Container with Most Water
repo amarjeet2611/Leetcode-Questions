@@ -1,4 +1,4 @@
-[23:39, 27/09/2023] Dipender 1: class Solution {
+ class Solution {
 public:
     int maxArea(vector<int>& height) {
         int l =0;
