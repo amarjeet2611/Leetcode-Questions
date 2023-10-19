@@ -6,7 +6,6 @@ public:
         int a = nums1.size();
         int b = nums2.size();
         int totalLength = a + b;
-        
         while (i < a && j < b) {
             if (nums1[i] < nums2[j]) {
                 res.push_back(nums1[i]);
